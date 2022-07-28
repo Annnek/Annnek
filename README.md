@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <img title="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" height="30"/>
 <img title="Jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" height="30"/>
 <img title="VisualStudio" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode" height="30"/>
-<img title="Miro" src=".images/miro.png" alt="Miro" height="30"/>
+<img title="Miro" src="/images/miro.png" alt="Miro" height="30"/>
 <img title="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="figma" height="30"/>
 </p>
 
@@ -103,10 +103,9 @@ Here are some ideas to get you started:
             <p>My tasks:</p>
           <ul>
             <li>Development and adaptive layout of two html/css blocks - 'Report a problem' and 'Leave feedback'. Colleagues adapted to react;</li>
-            <li>•	Setting up sending the entered data to the mail of the head of the sales and marketing departments;</li>
+            <li>Setting up sending the entered data to the mail of the head of the sales and marketing departments;</li>
           </ul>
-          <p>You can find the code <a href="https://github.com/confesssa/tic-tac-toe">here</a>. Deploy is <a href="https://confesssa.github.io/tic-tac-toe/?target=_blank">here</a> or you can click on the image on the right.</p>
-        </td>
+         </td>
         <td>
           <p>Click preview</p>
           <a href="/images/user_account_big.jpg" target="_blank"><img src ="images/user_account_small.jpg" alt="user account preview"></a>
