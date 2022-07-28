@@ -16,7 +16,7 @@ Here are some ideas to get you started:
     <a href="https://www.linkedin.com/in/anna-nekhorosheva/"><img align="" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Photo Anna" height="30" /></a>
     <a href="mailto:nekhorosheva.ann@gmail.com"> <img align="" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="e-mail" height="30"/> </a>
 </p>
-<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I'm Anna.</h1>
+<h1 align="center">Hey! I'm Anna.</h1>
 
 <p>I'm self-motivated and passionate junior Web developer and now I'm seeking an opportunity to expand my skill set.</p>
 <p>My previous job was in IT company where I fell in love with the widespread possibilities of modern technology. I moved from marketing to IT department. My previous experience in marketing and project management helps me understand the real needs of the business as well as the specifics of product development, key indicators, user and beneficiary expectations.</p>
@@ -70,3 +70,46 @@ Here are some ideas to get you started:
     <img src="https://www.codewars.com/users/Annnek/badges/small" alt="codewars"></img>
    </a></p>
   </details>
+
+<h3>My projects</h3>
+
+<table border="1">
+      <tr>
+        <th>Project</th>
+        <th width="35%">Preview</th>
+      </tr>
+      <tr>
+        <td>
+        <h2 style="color: blue; size: 1.5rem;">Company's blog</h2>
+          <p><strong>Tools: Html/CSS, CSS-Flexbox, CSS-Variables</strong></p>
+          <p>Company's blog is designed to attract and retain potential customers. My tasks:</p>
+          <ul>
+            <li>Development and adaptive layout of the blog user interface;</li>
+            <li>Assistance with setting up blog integration with CMS Wordpress;</li>
+            <li>Content management;</li>
+          </ul>          
+        </td>
+        <td>
+          <p>Click preview</p>
+          <a href="/images/blog_big.jpg" target="_blank"><img src ="./images/blog_small.jpg" alt="blog preview"></a>
+        </td>
+      </tr>
+        <tr>
+        <td>
+        <h2 style="color: blue; size: 1.5rem;">Feedback form</h2>
+          <p><strong>Tools: Html/Css, CSS-Flexbox, CSS-Variables </strong></p>
+          <p>Client's personal account: an internal tool for customer retention and growth of loyalty to the company, where clients see how their property is being sold.
+            The feedback form allows the customer to quickly report a problem or thank the company.</p>
+            <p>My tasks:</p>
+          <ul>
+            <li>Development and adaptive layout of two html/css blocks - 'Report a problem' and 'Leave feedback'. Colleagues adapted to react;</li>
+            <li>•	Setting up sending the entered data to the mail of the head of the sales and marketing departments;</li>
+          </ul>
+          <p>You can find the code <a href="https://github.com/confesssa/tic-tac-toe">here</a>. Deploy is <a href="https://confesssa.github.io/tic-tac-toe/?target=_blank">here</a> or you can click on the image on the right.</p>
+        </td>
+        <td>
+          <p>Click preview</p>
+          <a href="/images/user_account_big.jpg" target="_blank"><img src ="images/user_account_small.jpg" alt="user account preview"></a>
+        </td>
+      </tr>
+    </table>
