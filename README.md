@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <img title="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3" height="30"/>
 <img title="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript" height="30"/>
 <img title="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" height="30"/>
-<img title="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react" height="30"/>
+<!-- <img title="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react" height="30"/> -->
 </p>
 
 <p> 
@@ -44,11 +44,11 @@ Here are some ideas to get you started:
 <h3>Education</h3>
     
 <ul>
- <li><a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/">The Complete 2022 Web Development Bootcamp (Dr.Angela Yu), Udemy</a> - learning now</li>
+ <li><a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/" target="_blank">The Complete 2022 Web Development Bootcamp (Dr.Angela Yu), Udemy</a> - learning now</li>
  <li>Responsive Web Design, FreeCodeCamp
    <ul>
      <li><details><summary>To see certificate click here</summary>
-       <a href="https://www.freecodecamp.org/certification/Annnek/responsive-web-design">https://www.freecodecamp.org/certification/Annnek/responsive-web-design</a>
+       <a href="https://www.freecodecamp.org/certification/Annnek/responsive-web-design" target="_blank">https://www.freecodecamp.org/certification/Annnek/responsive-web-design</a>
        </details>
      </li>
    </ul> 
@@ -56,7 +56,7 @@ Here are some ideas to get you started:
  <li>JavaScript Algorithms and Data Structures Certification, FreeCodeCamp
    <ul>
      <li><details><summary>To see certificate click here</summary>
-         <a href="https://www.freecodecamp.org/certification/Annnek/javascript-algorithms-and-data-structures">https://www.freecodecamp.org/certification/Annnek/javascript-algorithms-and-data-structures</a>
+         <a href="https://www.freecodecamp.org/certification/Annnek/javascript-algorithms-and-data-structures" target="_blank">https://www.freecodecamp.org/certification/Annnek/javascript-algorithms-and-data-structures</a>
          </details>
      </li>
    </ul> 
@@ -93,7 +93,7 @@ Here are some ideas to get you started:
           <a href="/images/blog_big.jpg" target="_blank"><img src ="./images/blog_small.jpg" alt="blog preview"></a>
         </td>
       </tr>
-        <tr>
+      <tr>
         <td>
         <h2 style="color: blue; size: 1.5rem;">Feedback form</h2>
           <p><strong>Tools: Html/Css, CSS-Flexbox, CSS-Variables </strong></p>
@@ -110,4 +110,39 @@ Here are some ideas to get you started:
           <a href="/images/user_account_big.jpg" target="_blank"><img src ="images/user_account_small.jpg" alt="user account preview"></a>
         </td>
       </tr>
-    </table>
+      <tr>
+        <td>
+        <h2 style="color: blue; size: 1.5rem;">Portfolio</h2>
+          <p><strong>Tools: Bootstrap, Html/Css, CSS-Flexbox, CSS-Variables</strong></p>
+          <p>All my projects in one place. Originally created with Html/CSS, then modified with Bootstrap</p>
+            <p>My project has the following functions:</p>
+          <ul>
+            <li>One page project with internal navigation;</li>
+            <li>Adaptive layout;</li>
+            <li>The project block is made with CSS-Flexbox, expands when you click Show all</li>
+          </ul>
+          <p>You can find the code <a href="">here</a>. Deploy is <a href="">here</a> or you can click on the image on the right.</p>
+        </td>
+        <td>
+          <p>Click preview</p>
+          <a href="/images/user_account_big.jpg" target="_blank"><img src ="images/user_account_small.jpg" alt="Preview my portfolio"></a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+        <h2 style="color: blue; size: 1.5rem;">Survey form</h2>
+          <p><strong>Tools: Bootstrap, Html/Css, CSS-Flexbox, CSS-Variables</strong></p>
+          <p>Project for selecting a convenient tourist trip. Originally created with Html/CSS, then modified with Bootstrap</p>
+            <p>My project has the following functions:</p>
+          <ul>
+            <li>•	Different type of input-data – text, e-mail, number, min-max;</li>
+            <li>•	•	Dropdown-elements, checkboxes, radio-button;</li>
+          </ul>
+          <p>You can find the code <a href="">here</a>. Deploy is <a href="">here</a> or you can click on the image on the right.</p>
+        </td>
+        <td>
+          <p>Click preview</p>
+          <a href="/images/user_account_big.jpg" target="_blank"><img src ="images/user_account_small.jpg" alt="user account preview"></a>
+        </td>
+      </tr>
+</table>
