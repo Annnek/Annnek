@@ -61,8 +61,7 @@ Here are some ideas to get you started:
      </li>
    </ul> 
  </li>
-      <li>Master’s in Finance, Financial University under the Government of the Russian Federation</li>
-    </ul>
+</ul>
           
 <p><img title="codewars" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" alt="codewars" height="20"> Codewars exercises</p>
   <details><summary> Statistic is here </summary>
@@ -98,8 +97,8 @@ Here are some ideas to get you started:
         <td>
         <h2 style="color: blue; size: 1.5rem;">Feedback form</h2>
           <p><strong>Tools: Html/Css, CSS-Flexbox, CSS-Variables </strong></p>
-          <p>Client's personal account: an internal tool for customer retention and growth of loyalty to the company, where clients see how their property is being sold.
-            The feedback form allows the customer to quickly report a problem or thank the company.</p>
+          <p>Client's personal account: an internal tool for customer retention and growth of loyalty to the company, where clients see how their property is being sold. The feedback form allows the customer to quickly report a problem or thank the company.</p>
+            <p>Details of this project can be read <a href="https://vc.ru/tribuna/245607-lichnyy-kabinet-klienta-kak-instrument-prodazh-kakoy-funkcional-rabotaet"> in the article on my blog in VC </a></p>
             <p>My tasks:</p>
           <ul>
             <li>Development and adaptive layout of two html/css blocks - 'Report a problem' and 'Leave feedback'. Colleagues adapted to react;</li>
