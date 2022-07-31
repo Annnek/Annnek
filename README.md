@@ -63,13 +63,6 @@ Here are some ideas to get you started:
  </li>
 </ul>
           
-<p><img title="codewars" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" alt="codewars" height="20"> Codewars exercises</p>
-  <details><summary> Statistic is here </summary>
-   <p><a href="https://www.codewars.com/users/Annnek/stats?target=_blank">
-    <img src="https://www.codewars.com/users/Annnek/badges/small" alt="codewars"></img>
-   </a></p>
-  </details>
-
 <h3>My projects</h3>
 
 <table border="1">
@@ -150,15 +143,13 @@ Here are some ideas to get you started:
         <td>
         <h2 style="color: blue; size: 1.5rem;">Codewars tasks</h2>
           <p><strong>Tools: Java Script</strong></p>
-          <p><img title="codewars" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" alt="codewars" height="20">                  Codewars exercises</p>
-          <details><summary> Statistic is here </summary>
+          <p><img title="codewars" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" alt="codewars" height="20">  Codewars exercises</p>
+          <details><summary>Statistic is here</summary>
             <p><a href="https://www.codewars.com/users/Annnek/stats?target=_blank">
-            <img src="https://www.codewars.com/users/Annnek/badges/small" alt="codewars"></img>
-            </a></p>
+            <img src="https://www.codewars.com/users/Annnek/badges/small" alt="codewars"></img></a></p>
           </details>
         </td>
-        <td>
-          
+        <td>          
         </td>
       </tr>
 </table>
@@ -171,7 +162,6 @@ Here are some ideas to get you started:
         <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Annnek&" alt="Annnek" /></p>
       </details>
      
-    ---
 <h3>Contact me 📫</h3>
     <p align="left">
       <a href="https://www.linkedin.com/in/anna-nekhorosheva/"><img align="" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Photo Anna" height="30" /></a>
