@@ -125,7 +125,7 @@ Here are some ideas to get you started:
         </td>
         <td>
           <p>Click preview</p>
-          <a href="/images/user_account_big.jpg" target="_blank"><img src ="images/user_account_small.jpg" alt="Preview my portfolio"></a>
+          <a href="/images/user_account_big.jpg" target="_blank"><img src ="images/portfolio_small.jpg" alt="Preview my portfolio"></a>
         </td>
       </tr>
       <tr>
@@ -142,7 +142,22 @@ Here are some ideas to get you started:
         </td>
         <td>
           <p>Click preview</p>
-          <a href="/images/user_account_big.jpg" target="_blank"><img src ="images/user_account_small.jpg" alt="user account preview"></a>
+          <a href="/images/user_account_big.jpg" target="_blank"><img src ="images/survey_small.jpg" alt="Survey form preview"></a>
         </td>
       </tr>
 </table>
+
+<h3>My programming Stats</h3>
+      <details>
+        <summary> <b>click here</b> </summary>
+        <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Annnek&show_icons=true&locale=en&layout=compact" alt="Annnek" /></p>
+        <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Annnek&show_icons=true&locale=en" alt="Annnek" /></p>
+        <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Annnek&" alt="Annnek" /></p>
+      </details>
+     
+    ---
+<h3>Contact me 📫</h3>
+    <p align="left">
+      <a href="https://www.linkedin.com/in/anna-nekhorosheva/"><img align="" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Photo Anna" height="30" /></a>
+      <a href="mailto:nekhorosheva.ann@gmail.com"> <img align="" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="e-mail" height="30"/> </a>
+    </p>
