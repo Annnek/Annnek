@@ -138,7 +138,6 @@ Here are some ideas to get you started:
           <a href="/images/user_account_big.jpg" target="_blank"><img src ="images/survey_small.jpg" alt="Survey form preview"></a>
         </td>
       </tr>
-      
       <tr>
         <td>
         <h2 style="color: blue; size: 1.5rem;">Codewars tasks</h2>
