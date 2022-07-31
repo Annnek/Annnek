@@ -114,33 +114,35 @@ Here are some ideas to get you started:
             <li>Adaptive layout;</li>
             <li>The project block is made with CSS-Flexbox, expands when you click Show all</li>
           </ul>
-          <p>You can find the code <a href="">here</a>. Deploy is <a href="">here</a> or you can click on the image on the right.</p>
+          <p>You can find the code <a href="https://github.com/Annnek/My-portfolio" target="_blank">here</a>. Deploy is <a href="https://annnek.github.io/My-portfolio/" target="_blank">here</a> or you can click on the image on the right.</p>
         </td>
         <td>
           <p>Click preview</p>
-          <a href="https://annnek.github.io/My-portfolio/"><img src ="images/portfolio_small.jpg" alt="Preview my portfolio"></a>
+          <a href="https://annnek.github.io/My-portfolio/" target="_blank"><img src ="images/portfolio_small.jpg" alt="Preview my portfolio"></a>
         </td>
       </tr>
+      
       <tr>
         <td>
         <h2 style="color: blue; size: 1.5rem;">Survey form</h2>
           <p><strong>Tools: Bootstrap, Html/Css, CSS-Flexbox, CSS-Variables</strong></p>
           <p>Project for selecting a convenient tourist trip. Originally created with Html/CSS, then modified with Bootstrap</p>
-            <p>My project has the following functions:</p>
+          <p>My project has the following functions: </p>
           <ul>
-            <li>•	Different type of input-data – text, e-mail, number, min-max;</li>
-            <li>•	Dropdown-elements, checkboxes, radio-button;</li>
+            <li>Different type of input-data – text, e-mail, number, min-max;</li>
+            <li>Dropdown-elements, checkboxes, radio-button;</li>
           </ul>
-          <p>You can find the code <a href="">here</a>. Deploy is <a href="">here</a> or you can click on the image on the right.</p>
+          <p>You can find the code <a href="https://github.com/Annnek/Survey-form" target="_blank">here</a>. Deploy is <a href="https://annnek.github.io/Survey-form/" target="_blank">here</a> or you can click on the image on the right.</p>
         </td>
         <td>
           <p>Click preview</p>
-          <a href="/images/user_account_big.jpg" target="_blank"><img src ="images/survey_small.jpg" alt="Survey form preview"></a>
+          <a href="https://annnek.github.io/Survey-form/" target="_blank"><img src ="images/survey_small.jpg" alt="Survey form preview"></a>
         </td>
       </tr>
+     
       <tr>
         <td>
-        <h2 style="color: blue; size: 1.5rem;">Codewars tasks</h2>
+        <h2 style="color: blue; size: 1.5rem;">Codewars tasks </h2>
           <p><strong>Tools: Java Script</strong></p>
           <p><img title="codewars" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" alt="codewars" height="20">  Codewars exercises</p>
           <details><summary>Statistic is here</summary>
@@ -148,10 +150,11 @@ Here are some ideas to get you started:
             <img src="https://www.codewars.com/users/Annnek/badges/small" alt="codewars"></img></a></p>
           </details>
         </td>
-        <td>          
+        <td>
+    
         </td>
       </tr>
-</table>
+  </table>
 
 <h3>My programming Stats</h3>
       <details>
