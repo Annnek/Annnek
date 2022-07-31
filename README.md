@@ -125,7 +125,7 @@ Here are some ideas to get you started:
         </td>
         <td>
           <p>Click preview</p>
-          <a href="/images/user_account_big.jpg" target="_blank"><img src ="images/portfolio_small.jpg" alt="Preview my portfolio"></a>
+          <a href="https://annnek.github.io/My-portfolio/"><img src ="images/portfolio_small.jpg" alt="Preview my portfolio"></a>
         </td>
       </tr>
       <tr>
@@ -136,13 +136,29 @@ Here are some ideas to get you started:
             <p>My project has the following functions:</p>
           <ul>
             <li>•	Different type of input-data – text, e-mail, number, min-max;</li>
-            <li>•	•	Dropdown-elements, checkboxes, radio-button;</li>
+            <li>•	Dropdown-elements, checkboxes, radio-button;</li>
           </ul>
           <p>You can find the code <a href="">here</a>. Deploy is <a href="">here</a> or you can click on the image on the right.</p>
         </td>
         <td>
           <p>Click preview</p>
           <a href="/images/user_account_big.jpg" target="_blank"><img src ="images/survey_small.jpg" alt="Survey form preview"></a>
+        </td>
+      </tr>
+      
+      <tr>
+        <td>
+        <h2 style="color: blue; size: 1.5rem;">Codewars tasks</h2>
+          <p><strong>Tools: Java Script</strong></p>
+          <p><img title="codewars" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" alt="codewars" height="20">                  Codewars exercises</p>
+          <details><summary> Statistic is here </summary>
+            <p><a href="https://www.codewars.com/users/Annnek/stats?target=_blank">
+            <img src="https://www.codewars.com/users/Annnek/badges/small" alt="codewars"></img>
+            </a></p>
+          </details>
+        </td>
+        <td>
+          
         </td>
       </tr>
 </table>
