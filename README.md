@@ -72,7 +72,7 @@ Here are some ideas to get you started:
       </tr>
       <tr>
         <td>
-        <h2 style="color: blue; size: 1.5rem;">Company's blog</h2>
+        <h3 style="color: blue">Company's blog</h3>
           <p><strong>Tools: Html/CSS, CSS-Flexbox, CSS-Variables</strong></p>
           <p>Company's blog is designed to attract and retain potential customers. My tasks:</p>
           <ul>
@@ -88,7 +88,7 @@ Here are some ideas to get you started:
       </tr>
       <tr>
         <td>
-        <h2 style="color: blue; size: 1.5rem;">Feedback form</h2>
+        <h3 style="color: blue">Feedback form</h3>
           <p><strong>Tools: Html/Css, CSS-Flexbox, CSS-Variables </strong></p>
           <p>Client's personal account: an internal tool for customer retention and growth of loyalty to the company, where clients see how their property is being sold. The feedback form allows the customer to quickly report a problem or thank the company.</p>
             <p>Details of this project can be read <a href="https://vc.ru/tribuna/245607-lichnyy-kabinet-klienta-kak-instrument-prodazh-kakoy-funkcional-rabotaet"> in the article on my blog in VC </a></p>
@@ -105,7 +105,7 @@ Here are some ideas to get you started:
       </tr>
       <tr>
         <td>
-        <h2 style="color: blue; size: 1.5rem;">Portfolio</h2>
+        <h3 style="color: blue">Portfolio</h3>
           <p><strong>Tools: Bootstrap, Html/Css, CSS-Flexbox, CSS-Variables</strong></p>
           <p>All my projects in one place. Originally created with Html/CSS, then modified with Bootstrap</p>
             <p>My project has the following functions:</p>
@@ -120,11 +120,10 @@ Here are some ideas to get you started:
           <p>Click preview</p>
           <a href="https://annnek.github.io/My-portfolio/" target="_blank"><img src ="images/portfolio_small.jpg" alt="Preview my portfolio"></a>
         </td>
-      </tr>
-      
+      </tr>      
       <tr>
-        <td>
-        <h2 style="color: blue; size: 1.5rem;">Survey form</h2>
+       <td>
+        <h3 style="color: blue">Survey form</h3>
           <p><strong>Tools: Bootstrap, Html/Css, CSS-Flexbox, CSS-Variables</strong></p>
           <p>Project for selecting a convenient tourist trip. Originally created with Html/CSS, then modified with Bootstrap</p>
           <p>My project has the following functions: </p>
@@ -132,27 +131,25 @@ Here are some ideas to get you started:
             <li>Different type of input-data – text, e-mail, number, min-max;</li>
             <li>Dropdown-elements, checkboxes, radio-button;</li>
           </ul>
-          <p>You can find the code <a href="https://github.com/Annnek/Survey-form" target="_blank">here</a>. Deploy is <a href="https://annnek.github.io/Survey-form/" target="_blank">here</a> or you can click on the image on the right.</p>
-        </td>
-        <td>
+          <p>You can find the code <a href="https://github.com/Annnek/Survey-form">here</a>. Deploy is <a href="https://annnek.github.io/Survey-form/">here</a> or you can click on the image on the right.</p>
+       </td>
+       <td>
           <p>Click preview</p>
-          <a href="https://annnek.github.io/Survey-form/" target="_blank"><img src ="images/survey_small.jpg" alt="Survey form preview"></a>
-        </td>
+          <a href="https://annnek.github.io/Survey-form/"><img src ="images/survey_small.jpg" alt="Survey form preview"></a>
+       </td>
       </tr>
-     
-      <tr>
-        <td>
-        <h2 style="color: blue; size: 1.5rem;">Codewars tasks </h2>
+     <tr>
+       <td>
+        <h3 style="color: blue">Codewars tasks</h3>
           <p><strong>Tools: Java Script</strong></p>
-          <p><img title="codewars" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" alt="codewars" height="20">  Codewars exercises</p>
-          <details><summary>Statistic is here</summary>
-            <p><a href="https://www.codewars.com/users/Annnek/stats?target=_blank">
-            <img src="https://www.codewars.com/users/Annnek/badges/small" alt="codewars"></img></a></p>
-          </details>
-        </td>
-        <td>
-    
-        </td>
+          <p><img title="codewars" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" alt="codewars" height="20">  Codewars exercises</p>          
+       </td>
+       <td>
+        <details><summary>Statistic is here</summary>
+        <p><a href="https://www.codewars.com/users/Annnek/stats?target=_blank">
+          <img src="https://www.codewars.com/users/Annnek/badges/small" alt="codewars"></img></a></p>
+        </details>
+       </td>
       </tr>
   </table>
 
