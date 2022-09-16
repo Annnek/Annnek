@@ -44,6 +44,7 @@ Here are some ideas to get you started:
 <h3>Education</h3>
     
 <ul>
+ <li><a href="https://practicum.yandex.ru/web/" target="_blank">Web development, Yandex Practicum</a> - learning now</li>
  <li><a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/" target="_blank">The Complete 2022 Web Development Bootcamp (Dr.Angela Yu), Udemy</a> - learning now</li>
  <li>Responsive Web Design, FreeCodeCamp
    <ul>
