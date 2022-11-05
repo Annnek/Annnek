@@ -67,98 +67,98 @@ Here are some ideas to get you started:
 <h3>My projects</h3>
 
 <table border="1">
-      <tr>
-        <th>Project</th>
-        <th width="35%">Preview</th>
-      </tr>
+  <tr>
+    <th>Project</th>
+    <th width="35%">Preview</th>
+  </tr>
       
-      <tr>
-        <td>
-        <h3 style="color: blue">Company's blog</h3>
-          <p><strong>Tools: Html/CSS, CSS-Flexbox, CSS-Variables</strong></p>
-          <p>Company's blog is designed to attract and retain potential customers. My tasks:</p>
-          <ul>
-            <li>Development and adaptive layout of the blog user interface;</li>
-            <li>Assistance with setting up blog integration with CMS Wordpress;</li>
-            <li>Content management;</li>
-          </ul>          
-        </td>
-        <td>
-          <p>Click preview</p>
-          <a href="/images/blog_big.jpg" target="_blank"><img src ="./images/blog_small.jpg" alt="blog preview"></a>
-        </td>
-      </tr>
+  <tr>
+    <td>
+      <h3 style="color: blue">Company's blog</h3>
+      <p><strong>Tools: Html/CSS, CSS-Flexbox, CSS-Variables</strong></p>
+      <p>Company's blog is designed to attract and retain potential customers. My tasks:</p>
+      <ul>
+        <li>Development and adaptive layout of the blog user interface;</li>
+        <li>Assistance with setting up blog integration with CMS Wordpress;</li>
+        <li>Content management;</li>
+      </ul>          
+    </td>
+    <td>
+      <p>Click preview</p>
+      <a href="/images/blog_big.jpg" target="_blank"><img src ="./images/blog_small.jpg" alt="blog preview"></a>
+    </td>
+  </tr>
       
-      <tr>
-        <td>
-        <h3 style="color: blue">Feedback form</h3>
-          <p><strong>Tools: Html/Css, CSS-Flexbox, CSS-Variables </strong></p>
-          <p>Client's personal account: an internal tool for customer retention and growth of loyalty to the company, where clients see how their property is being sold. The feedback form allows the customer to quickly report a problem or thank the company.</p>
-            <p>Details of this project can be read <a href="https://vc.ru/tribuna/245607-lichnyy-kabinet-klienta-kak-instrument-prodazh-kakoy-funkcional-rabotaet"> in the article on my blog in VC </a></p>
-            <p>My tasks:</p>
-          <ul>
-            <li>Development and adaptive layout of two html/css blocks - 'Report a problem' and 'Leave feedback'. Colleagues adapted to react;</li>
-            <li>Setting up sending the entered data to the mail of the head of the sales and marketing departments;</li>
-          </ul>
-         </td>
-        <td>
-          <p>Click preview</p>
-          <a href="/images/user_account_big.jpg" target="_blank"><img src ="images/user_account_small.jpg" alt="user account preview"></a>
-        </td>
-      </tr>
+  <tr>
+    <td>
+      <h3 style="color: blue">Feedback form</h3>
+      <p><strong>Tools: Html/Css, CSS-Flexbox, CSS-Variables </strong></p>
+      <p>Client's personal account: an internal tool for customer retention and growth of loyalty to the company, where clients see how their property is being sold. The feedback form allows the customer to quickly report a problem or thank the company.</p>
+      <p>Details of this project can be read <a href="https://vc.ru/tribuna/245607-lichnyy-kabinet-klienta-kak-instrument-prodazh-kakoy-funkcional-rabotaet"> in the article on my blog in VC </a></p>
+      <p>My tasks:</p>
+      <ul>
+        <li>Development and adaptive layout of two html/css blocks - 'Report a problem' and 'Leave feedback'. Colleagues adapted to react;</li>
+        <li>Setting up sending the entered data to the mail of the head of the sales and marketing departments;</li>
+      </ul>
+    </td>
+    <td>
+      <p>Click preview</p>
+      <a href="/images/user_account_big.jpg" target="_blank"><img src ="images/user_account_small.jpg" alt="user account preview"></a>
+    </td>
+  </tr>
       
-      <tr>
-       <td>
-        <h3 style="color: blue">E-commerce project</h3>
-          <p><strong>Tools: Html/Css, CSS-Flexbox, CSS-Variables, Grids</strong></p>
-          <p>Beautiful project for e-commerce. Originally created with Html/CSS</p>
-          <p>My project has the following functions: </p>
-          <ul>
-            <li>One page project with internal navigation;</li>
-            <li>Different type of input-data – text, e-mail, number, min-max;</li>
-            <li>Dropdown-elements, checkboxes, radio-button;</li>
-          </ul>
-          <p>You can find the code <a href="https://annnek.github.io/e-commerce/">here</a>. Deploy is <a href="https://annnek.github.io/e-commerce/">here</a> or you can click on the image on the right.</p>
-       </td>
-       <td>
-          <p>Click preview</p>
-          <a href="https://annnek.github.io/e-commerce/"><img src ="images/ecommerce.jpg" alt="E-commerce preview"></a>
-       </td>
-      </tr>
+  <tr>
+    <td>
+      <h3 style="color: blue">E-commerce project</h3>
+      <p><strong>Tools: Html/Css, CSS-Flexbox, CSS-Variables, Grids</strong></p>
+      <p>Beautiful project for e-commerce. Originally created with Html/CSS</p>
+      <p>My project has the following functions: </p>
+      <ul>
+        <li>One page project with internal navigation;</li>
+        <li>Different type of input-data – text, e-mail, number, min-max;</li>
+        <li>Dropdown-elements, checkboxes, radio-button;</li>
+      </ul>
+      <p>You can find the code <a href="https://annnek.github.io/e-commerce/">here</a>. Deploy is <a href="https://annnek.github.io/e-commerce/">here</a> or you can click on the image on the right.</p>
+    </td>
+    <td>
+      <p>Click preview</p>
+      <a href="https://annnek.github.io/e-commerce/"><img src ="images/ecommerce.jpg" alt="E-commerce preview"></a>
+    </td>
+  </tr>
       
-      <tr>
-        <td>
-        <h3 style="color: blue">Portfolio</h3>
-          <p><strong>Tools: Bootstrap, Html/Css, CSS-Flexbox, CSS-Variables</strong></p>
-          <p>All my projects in one place. Originally created with Html/CSS, then modified with Bootstrap</p>
-            <p>My project has the following functions:</p>
-          <ul>
-            <li>One page project with internal navigation;</li>
-            <li>Adaptive layout;</li>
-            <li>The project block is made with CSS-Flexbox, expands when you click Show all</li>
-          </ul>
-          <p>You can find the code <a href="https://github.com/Annnek/My-portfolio" target="_blank">here</a>. Deploy is <a href="https://annnek.github.io/My-portfolio/" target="_blank">here</a> or you can click on the image on the right.</p>
-        </td>
-        <td>
-          <p>Click preview</p>
-          <a href="https://annnek.github.io/My-portfolio/" target="_blank"><img src ="images/portfolio_small.jpg" alt="Preview my portfolio"></a>
-        </td>
-      </tr>      
+  <tr>
+    <td>
+      <h3 style="color: blue">Portfolio</h3>
+      <p><strong>Tools: Bootstrap, Html/Css, CSS-Flexbox, CSS-Variables</strong></p>
+      <p>All my projects in one place. Originally created with Html/CSS, then modified with Bootstrap</p>
+      <p>My project has the following functions:</p>
+      <ul>
+        <li>One page project with internal navigation;</li>
+        <li>Adaptive layout;</li>
+        <li>The project block is made with CSS-Flexbox, expands when you click Show all</li>
+      </ul>
+      <p>You can find the code <a href="https://github.com/Annnek/My-portfolio" target="_blank">here</a>. Deploy is <a href="https://annnek.github.io/My-portfolio/" target="_blank">here</a> or you can click on the image on the right.</p>
+    </td>
+    <td>
+      <p>Click preview</p>
+      <a href="https://annnek.github.io/My-portfolio/" target="_blank"><img src ="images/portfolio_small.jpg" alt="Preview my portfolio"></a>
+    </td>
+  </tr>      
       
-     <tr>
-       <td>
-        <h3 style="color: blue">Codewars tasks</h3>
-          <p><strong>Tools: Java Script</strong></p>
-          <p><img title="codewars" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" alt="codewars" height="20">  Codewars exercises</p>          
-       </td>
-       <td>
-        <details><summary>Statistic is here</summary>
+  <tr>
+    <td>
+      <h3 style="color: blue">Codewars tasks</h3>
+      <p><strong>Tools: Java Script</strong></p>
+      <p><img title="codewars" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" alt="codewars" height="20">  Codewars exercises</p>          
+    </td>
+    <td>
+      <details><summary>Statistic is here</summary>
         <p><a href="https://www.codewars.com/users/Annnek/stats?target=_blank">
           <img src="https://www.codewars.com/users/Annnek/badges/small" alt="codewars"></img></a></p>
-        </details>
-       </td>
-      </tr>
-  </table>
+      </details>
+    </td>
+  </tr>
+</table>
 
 <h3>My programming Stats</h3>
       <details>
@@ -169,7 +169,7 @@ Here are some ideas to get you started:
       </details>
      
 <h3>Contact me 📫</h3>
-    <p align="left">
-      <a href="https://www.linkedin.com/in/anna-nekhorosheva/"><img align="" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Photo Anna" height="30" /></a>
-      <a href="mailto:nekhorosheva.ann@gmail.com"> <img align="" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="e-mail" height="30"/> </a>
-    </p>
+<p align="left">
+  <a href="https://www.linkedin.com/in/anna-nekhorosheva/"><img align="" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Photo Anna" height="30" /></a>
+  <a href="mailto:nekhorosheva.ann@gmail.com"> <img align="" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="e-mail" height="30"/> </a>
+</p>
