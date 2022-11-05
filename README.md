@@ -71,6 +71,7 @@ Here are some ideas to get you started:
         <th>Project</th>
         <th width="35%">Preview</th>
       </tr>
+      
       <tr>
         <td>
         <h3 style="color: blue">Company's blog</h3>
@@ -87,6 +88,7 @@ Here are some ideas to get you started:
           <a href="/images/blog_big.jpg" target="_blank"><img src ="./images/blog_small.jpg" alt="blog preview"></a>
         </td>
       </tr>
+      
       <tr>
         <td>
         <h3 style="color: blue">Feedback form</h3>
@@ -104,6 +106,26 @@ Here are some ideas to get you started:
           <a href="/images/user_account_big.jpg" target="_blank"><img src ="images/user_account_small.jpg" alt="user account preview"></a>
         </td>
       </tr>
+      
+      <tr>
+       <td>
+        <h3 style="color: blue">E-commerce project</h3>
+          <p><strong>Tools: Html/Css, CSS-Flexbox, CSS-Variables, Grids</strong></p>
+          <p>Beautiful project for e-commerce. Originally created with Html/CSS</p>
+          <p>My project has the following functions: </p>
+          <ul>
+            <li>One page project with internal navigation;</li>
+            <li>Different type of input-data – text, e-mail, number, min-max;</li>
+            <li>Dropdown-elements, checkboxes, radio-button;</li>
+          </ul>
+          <p>You can find the code <a href="https://annnek.github.io/e-commerce/">here</a>. Deploy is <a href="https://annnek.github.io/e-commerce/">here</a> or you can click on the image on the right.</p>
+       </td>
+       <td>
+          <p>Click preview</p>
+          <a href="https://annnek.github.io/e-commerce/"><img src ="images/ecommerce.jpg" alt="E-commerce preview"></a>
+       </td>
+      </tr>
+      
       <tr>
         <td>
         <h3 style="color: blue">Portfolio</h3>
@@ -122,23 +144,7 @@ Here are some ideas to get you started:
           <a href="https://annnek.github.io/My-portfolio/" target="_blank"><img src ="images/portfolio_small.jpg" alt="Preview my portfolio"></a>
         </td>
       </tr>      
-      <tr>
-       <td>
-        <h3 style="color: blue">Survey form</h3>
-          <p><strong>Tools: Bootstrap, Html/Css, CSS-Flexbox, CSS-Variables</strong></p>
-          <p>Project for selecting a convenient tourist trip. Originally created with Html/CSS, then modified with Bootstrap</p>
-          <p>My project has the following functions: </p>
-          <ul>
-            <li>Different type of input-data – text, e-mail, number, min-max;</li>
-            <li>Dropdown-elements, checkboxes, radio-button;</li>
-          </ul>
-          <p>You can find the code <a href="https://github.com/Annnek/Survey-form">here</a>. Deploy is <a href="https://annnek.github.io/Survey-form/">here</a> or you can click on the image on the right.</p>
-       </td>
-       <td>
-          <p>Click preview</p>
-          <a href="https://annnek.github.io/Survey-form/"><img src ="images/survey_small.jpg" alt="Survey form preview"></a>
-       </td>
-      </tr>
+      
      <tr>
        <td>
         <h3 style="color: blue">Codewars tasks</h3>
