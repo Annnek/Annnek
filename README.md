@@ -71,24 +71,27 @@ Here are some ideas to get you started:
     <th>Project</th>
     <th width="35%">Preview</th>
   </tr>
-      
+  <!-- Company's blog -->
   <tr>
     <td>
       <h3 style="color: blue">Company's blog</h3>
-      <p><strong>Tools: Html/CSS, CSS-Flexbox, CSS-Variables</strong></p>
+      <p><strong>Tools: Html/CSS, Flexbox, Variables</strong></p>
       <p>Company's blog is designed to attract and retain potential customers. My tasks:</p>
       <ul>
         <li>Development and adaptive layout of the blog user interface;</li>
         <li>Assistance with setting up blog integration with CMS Wordpress;</li>
-        <li>Content management;</li>
-      </ul>          
+        <li>Setting animation when hovering over the article image and menu;</li>
+        <li>Content management.</li>
+      </ul>  
+      <p>This is a working project, I haven’t saved the code.</p>
+      <p>You can see the result <a href="/images/blog.jpg" target="_blank">here</a> or you can click on the image on the right.</p>        
     </td>
     <td>
       <p>Click preview</p>
-      <a href="/images/blog_big.jpg" target="_blank"><img src ="./images/blog_small.jpg" alt="blog preview"></a>
+      <a href="/images/blog.jpg" target="_blank"><img src ="./images/blog_small.jpg" alt="blog preview"></a>
     </td>
   </tr>
-      
+  <!-- Feedback form     -->
   <tr>
     <td>
       <h3 style="color: blue">Feedback form</h3>
@@ -97,16 +100,65 @@ Here are some ideas to get you started:
       <p>Details of this project can be read <a href="https://vc.ru/tribuna/245607-lichnyy-kabinet-klienta-kak-instrument-prodazh-kakoy-funkcional-rabotaet"> in the article on my blog in VC </a></p>
       <p>My tasks:</p>
       <ul>
-        <li>Development and adaptive layout of two html/css blocks - 'Report a problem' and 'Leave feedback'. Colleagues adapted to react;</li>
+        <li>Development and adaptive layout of two html/css blocks - 'Report a problem' and 'Leave feedback';</li>
+        <li>Programming open/close modal pop-up;</li>
         <li>Setting up sending the entered data to the mail of the head of the sales and marketing departments;</li>
       </ul>
+      <p>The functions of the personal account are available only to the clients of the company.</p>
+      <p>You can see the example <a href="https://homeapp.ru/profile/realty/example/view" target="_blank">here</a> or you can click on the image on the right.</p>
     </td>
     <td>
       <p>Click preview</p>
-      <a href="/images/user_account_big.jpg" target="_blank"><img src ="images/user_account_small.jpg" alt="user account preview"></a>
+      <a href="https://homeapp.ru/profile/realty/example/view" target="_blank"><img src ="images/user_account_small.jpg" alt="user account preview"></a>
     </td>
   </tr>
-      
+
+<!-- Change picture     -->
+  <tr>
+    <td>
+      <h3 style="color: blue">JavaScript: change picture</h3>
+      <p><strong>Tools: JavaScript, Html/Css, Flexbox, Grid, Variables </strong></p>
+      <p>Pet project - you can select the type of photos by clicking a button.</p>
+   
+      <p>Functions:</p>
+      <ul>
+        <li>The project is implemented on JS and CSS using Grid Layout technology, pseudo-classes and pseudo-elements;</li>
+        <li>Functionality - photo selection by radio button;</li>        
+      </ul>
+      <p>You can find the code <a href="https://github.com/Annnek/change-picture" target="_blank">here</a>.</p>
+      <p>You can see the result <a href="https://annnek.github.io/change-picture/" target="_blank">here</a> or you can click on the image on the right.</p>
+    </td>
+    <td>
+      <p>Click preview</p>
+      <a href="https://homeapp.ru/profile/realty/example/view" target="_blank"><img src ="images/user_account_small.jpg" alt="user account preview"></a>
+    </td>
+  </tr>
+
+<!-- Form article     -->
+  <tr>
+    <td>
+      <h3 style="color: blue">JavaScript: form for adding articles</h3>
+      <p><strong>Tools: JavaScript, Html/Css, Flexbox, Variables </strong></p>
+      <p>Pet project - a form for publishing articles.</p>
+   
+      <p>Functions:</p>
+      <ul>
+        <li>The form exits by clicking on the arrow and hides outside the window;</li>
+        <li>Setting required input fields;</li>
+        <li>Different type of input-data - text, e-mail, number, min-max etc;</li>
+        <li>Dropdown-elements, checkboxes, radio-button;</li>
+        <li>Submit and reset buttons;</li>        
+      </ul>
+      <p>You can find the code <a href="https://github.com/Annnek/form_articles" target="_blank">here</a>.</p>
+      <p>You can see the result <a href="https://annnek.github.io/form_articles/" target="_blank">here</a> or you can click on the image on the right.</p>
+    </td>
+    <td>
+      <p>Click preview</p>
+      <a href="https://annnek.github.io/form_articles/" target="_blank"><img src ="images/user_account_small.jpg" alt="user account preview"></a>
+    </td>
+  </tr>
+
+<!-- E-commerce project -->
   <tr>
     <td>
       <h3 style="color: blue">E-commerce project</h3>
@@ -126,7 +178,29 @@ Here are some ideas to get you started:
     </td>
   </tr>
       
+<!-- Travel guide -->
   <tr>
+    <td>
+      <h3 style="color: blue">Travel guide</h3>      
+    </td>
+    <td>
+      <p>Click preview</p>
+      <a href="https://annnek.github.io/e-commerce/"><img src ="images/ecommerce.jpg" alt="E-commerce preview"></a>
+    </td>
+  </tr>
+
+  <!-- How to learn -->
+  <tr>
+    <td>
+      <h3 style="color: blue">How to learn</h3>      
+    </td>
+    <td>
+      <p>Click preview</p>
+      <a href="https://annnek.github.io/e-commerce/"><img src ="images/ecommerce.jpg" alt="E-commerce preview"></a>
+    </td>
+  </tr>
+
+  <!-- <tr>
     <td>
       <h3 style="color: blue">Portfolio</h3>
       <p><strong>Tools: Bootstrap, Html/Css, CSS-Flexbox, CSS-Variables</strong></p>
@@ -143,8 +217,8 @@ Here are some ideas to get you started:
       <p>Click preview</p>
       <a href="https://annnek.github.io/My-portfolio/" target="_blank"><img src ="images/portfolio_small.jpg" alt="Preview my portfolio"></a>
     </td>
-  </tr>      
-      
+  </tr>       -->
+
   <tr>
     <td>
       <h3 style="color: blue">Codewars tasks</h3>
