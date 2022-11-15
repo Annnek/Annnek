@@ -118,8 +118,7 @@ Here are some ideas to get you started:
     <td>
       <h3 style="color: blue">JavaScript: change picture</h3>
       <p><strong>Tools: JavaScript, Html/Css, Flexbox, Grid, Variables </strong></p>
-      <p>Pet project - you can select the type of photos by clicking a button.</p>
-   
+      <p>Pet project - you can select the type of photos by clicking a button.</p>   
       <p>Functions:</p>
       <ul>
         <li>The project is implemented on JS and CSS using Grid Layout technology, pseudo-classes and pseudo-elements;</li>
@@ -133,14 +132,12 @@ Here are some ideas to get you started:
       <a href="https://homeapp.ru/profile/realty/example/view" target="_blank"><img src ="images/user_account_small.jpg" alt="user account preview"></a>
     </td>
   </tr>
-
 <!-- Form article     -->
   <tr>
     <td>
       <h3 style="color: blue">JavaScript: form for adding articles</h3>
       <p><strong>Tools: JavaScript, Html/Css, Flexbox, Variables </strong></p>
-      <p>Pet project - a form for publishing articles.</p>
-   
+      <p>Pet project - a form for publishing articles.</p>   
       <p>Functions:</p>
       <ul>
         <li>The form exits by clicking on the arrow and hides outside the window;</li>
@@ -181,25 +178,48 @@ Here are some ideas to get you started:
 <!-- Travel guide -->
   <tr>
     <td>
-      <h3 style="color: blue">Travel guide</h3>      
+      <h3 style="color: blue">Travel guide</h3>
+      <p><strong>Tools: Html/Css, Flexbox, Grid, CSS-animation</strong></p>
+      <p>Project “Traveling around Russia” is an responsive site for planning trips around Russia with a lot of photos.</p>
+      <p>My project has the following functions: </p>
+      <ul>
+        <li>Layout according to BEM methodology;</li>
+        <li>Adaptability at different resolutions - 1280px, 1024px, 768px, 320px, including breakpoints;</li>
+        <li>Using grid and flex technologies;</li>
+        <li>Pseudo-classes and pseudo-elements, animation to create interactivity;</li>
+        <li>Variety of semantics;</li>        
+      </ul>
+      <p>You can find the code <a href="https://github.com/Annnek/russian-travel" target="_blank">here</a>.</p>
+      <p>You can see the result <a href="https://annnek.github.io/russian-travel/" target="_blank">here</a> or you can click on the image on the right.</p> 
     </td>
     <td>
       <p>Click preview</p>
-      <a href="https://annnek.github.io/e-commerce/"><img src ="images/ecommerce.jpg" alt="E-commerce preview"></a>
+      <a href="https://annnek.github.io/russian-travel/"><img src ="images/ecommerce.jpg" alt="Travel around Russia preview"></a>
     </td>
   </tr>
 
   <!-- How to learn -->
   <tr>
     <td>
-      <h3 style="color: blue">How to learn</h3>      
+      <h3 style="color: blue">How to learn</h3>   
+      <p><strong>Tools: Html/Css, Flexbox, Grid, CSS-animation</strong></p>
+      <p>Pet project on the Yandex Practicum course, training different CSS features</p>
+      <p>My project has the following functions: </p>
+      <ul>
+        <li>cross-browser compatibility;</li>
+        <li>flexbox and element positioning at XYZ levels;</li>
+        <li>animation and transformation on the example of pictures and links;</li>
+        <li>use of widgets, iframe;</li>
+        <li>Layout according to BEM methodology;</li>        
+      </ul>
+      <p>You can find the code <a href="https://github.com/Annnek/how-to-learn" target="_blank">here</a>.</p>
+      <p>You can see the result <a href="https://annnek.github.io/how-to-learn/" target="_blank">here</a> or you can click on the image on the right.</p>    
     </td>
     <td>
       <p>Click preview</p>
-      <a href="https://annnek.github.io/e-commerce/"><img src ="images/ecommerce.jpg" alt="E-commerce preview"></a>
+      <a href="https://annnek.github.io/how-to-learn/"><img src ="images/ecommerce.jpg" alt="How to learn preview"></a>
     </td>
   </tr>
-
   <!-- <tr>
     <td>
       <h3 style="color: blue">Portfolio</h3>
@@ -218,7 +238,6 @@ Here are some ideas to get you started:
       <a href="https://annnek.github.io/My-portfolio/" target="_blank"><img src ="images/portfolio_small.jpg" alt="Preview my portfolio"></a>
     </td>
   </tr>       -->
-
   <tr>
     <td>
       <h3 style="color: blue">Codewars tasks</h3>
