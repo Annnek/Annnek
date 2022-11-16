@@ -112,7 +112,69 @@ Here are some ideas to get you started:
       <a href="https://homeapp.ru/profile/realty/example/view" target="_blank"><img src ="images/user_account_small.jpg" alt="user account preview"></a>
     </td>
   </tr>
-
+<!-- E-commerce project -->
+  <tr>
+    <td>
+      <h3 style="color: blue">E-commerce project</h3>
+      <p><strong>Tools: Html/Css, CSS-Flexbox, CSS-Variables, Grids</strong></p>
+      <p>Beautiful project for e-commerce. Originally created with Html/CSS</p>
+      <p>My project has the following functions: </p>
+      <ul>
+        <li>One page project with internal navigation;</li>
+        <li>Different type of input-data – text, e-mail, number, min-max;</li>
+        <li>Dropdown-elements, checkboxes, radio-button;</li>
+      </ul>
+      <p>You can find the code <a href="https://annnek.github.io/e-commerce/">here</a>. Deploy is <a href="https://annnek.github.io/e-commerce/">here</a> or you can click on the image on the right.</p>
+    </td>
+    <td>
+      <p>Click preview</p>
+      <a href="https://annnek.github.io/e-commerce/"><img src ="images/ecommerce_small.jpg" alt="E-commerce preview"></a>
+    </td>
+  </tr>      
+<!-- Travel guide -->
+  <tr>
+    <td>
+      <h3 style="color: blue">Travel guide</h3>
+      <p><strong>Tools: Html/Css, Flexbox, Grid, CSS-animation</strong></p>
+      <p>Project “Traveling around Russia” is an responsive site for planning trips around Russia with a lot of photos.</p>
+      <p>My project has the following functions: </p>
+      <ul>
+        <li>Layout according to BEM methodology;</li>
+        <li>Adaptability at different resolutions - 1280px, 1024px, 768px, 320px, including breakpoints;</li>
+        <li>Using grid and flex technologies;</li>
+        <li>Pseudo-classes and pseudo-elements, animation to create interactivity;</li>
+        <li>Variety of semantics;</li>        
+      </ul>
+      <p>You can find the code <a href="https://github.com/Annnek/russian-travel" target="_blank">here</a>.</p>
+      <p>You can see the result <a href="https://annnek.github.io/russian-travel/" target="_blank">here</a> or you can click on the image on the right.</p> 
+    </td>
+    <td>
+      <p>Click preview</p>
+      <a href="https://annnek.github.io/russian-travel/"><img src ="images/travel2_small.jpg" alt="Travel around Russia preview"></a>
+    </td>
+  </tr>
+  <!-- How to learn -->
+  <tr>
+    <td>
+      <h3 style="color: blue">How to learn</h3>   
+      <p><strong>Tools: Html/Css, Flexbox, Grid, CSS-animation</strong></p>
+      <p>Pet project on the Yandex Practicum course, training different CSS features</p>
+      <p>My project has the following functions: </p>
+      <ul>
+        <li>cross-browser compatibility;</li>
+        <li>flexbox and element positioning at XYZ levels;</li>
+        <li>animation and transformation on the example of pictures and links;</li>
+        <li>use of widgets, iframe;</li>
+        <li>Layout according to BEM methodology;</li>        
+      </ul>
+      <p>You can find the code <a href="https://github.com/Annnek/how-to-learn" target="_blank">here</a>.</p>
+      <p>You can see the result <a href="https://annnek.github.io/how-to-learn/" target="_blank">here</a> or you can click on the image on the right.</p>    
+    </td>
+    <td>
+      <p>Click preview</p>
+      <a href="https://annnek.github.io/how-to-learn/"><img src ="images/learn_small.jpg" alt="How to learn preview"></a>
+    </td>
+  </tr>
 <!-- Change picture     -->
   <tr>
     <td>
@@ -129,7 +191,7 @@ Here are some ideas to get you started:
     </td>
     <td>
       <p>Click preview</p>
-      <a href="https://homeapp.ru/profile/realty/example/view" target="_blank"><img src ="images/user_account_small.jpg" alt="user account preview"></a>
+      <a href="https://annnek.github.io/change-picture/" target="_blank"><img src ="images/change-picture_small.jpg" alt="user account preview"></a>
     </td>
   </tr>
 <!-- Form article     -->
@@ -151,75 +213,10 @@ Here are some ideas to get you started:
     </td>
     <td>
       <p>Click preview</p>
-      <a href="https://annnek.github.io/form_articles/" target="_blank"><img src ="images/user_account_small.jpg" alt="user account preview"></a>
+      <a href="https://annnek.github.io/form_articles/" target="_blank"><img src ="images/form_small.jpg" alt="Preview project form"></a>
     </td>
   </tr>
 
-<!-- E-commerce project -->
-  <tr>
-    <td>
-      <h3 style="color: blue">E-commerce project</h3>
-      <p><strong>Tools: Html/Css, CSS-Flexbox, CSS-Variables, Grids</strong></p>
-      <p>Beautiful project for e-commerce. Originally created with Html/CSS</p>
-      <p>My project has the following functions: </p>
-      <ul>
-        <li>One page project with internal navigation;</li>
-        <li>Different type of input-data – text, e-mail, number, min-max;</li>
-        <li>Dropdown-elements, checkboxes, radio-button;</li>
-      </ul>
-      <p>You can find the code <a href="https://annnek.github.io/e-commerce/">here</a>. Deploy is <a href="https://annnek.github.io/e-commerce/">here</a> or you can click on the image on the right.</p>
-    </td>
-    <td>
-      <p>Click preview</p>
-      <a href="https://annnek.github.io/e-commerce/"><img src ="images/ecommerce.jpg" alt="E-commerce preview"></a>
-    </td>
-  </tr>
-      
-<!-- Travel guide -->
-  <tr>
-    <td>
-      <h3 style="color: blue">Travel guide</h3>
-      <p><strong>Tools: Html/Css, Flexbox, Grid, CSS-animation</strong></p>
-      <p>Project “Traveling around Russia” is an responsive site for planning trips around Russia with a lot of photos.</p>
-      <p>My project has the following functions: </p>
-      <ul>
-        <li>Layout according to BEM methodology;</li>
-        <li>Adaptability at different resolutions - 1280px, 1024px, 768px, 320px, including breakpoints;</li>
-        <li>Using grid and flex technologies;</li>
-        <li>Pseudo-classes and pseudo-elements, animation to create interactivity;</li>
-        <li>Variety of semantics;</li>        
-      </ul>
-      <p>You can find the code <a href="https://github.com/Annnek/russian-travel" target="_blank">here</a>.</p>
-      <p>You can see the result <a href="https://annnek.github.io/russian-travel/" target="_blank">here</a> or you can click on the image on the right.</p> 
-    </td>
-    <td>
-      <p>Click preview</p>
-      <a href="https://annnek.github.io/russian-travel/"><img src ="images/ecommerce.jpg" alt="Travel around Russia preview"></a>
-    </td>
-  </tr>
-
-  <!-- How to learn -->
-  <tr>
-    <td>
-      <h3 style="color: blue">How to learn</h3>   
-      <p><strong>Tools: Html/Css, Flexbox, Grid, CSS-animation</strong></p>
-      <p>Pet project on the Yandex Practicum course, training different CSS features</p>
-      <p>My project has the following functions: </p>
-      <ul>
-        <li>cross-browser compatibility;</li>
-        <li>flexbox and element positioning at XYZ levels;</li>
-        <li>animation and transformation on the example of pictures and links;</li>
-        <li>use of widgets, iframe;</li>
-        <li>Layout according to BEM methodology;</li>        
-      </ul>
-      <p>You can find the code <a href="https://github.com/Annnek/how-to-learn" target="_blank">here</a>.</p>
-      <p>You can see the result <a href="https://annnek.github.io/how-to-learn/" target="_blank">here</a> or you can click on the image on the right.</p>    
-    </td>
-    <td>
-      <p>Click preview</p>
-      <a href="https://annnek.github.io/how-to-learn/"><img src ="images/ecommerce.jpg" alt="How to learn preview"></a>
-    </td>
-  </tr>
   <!-- <tr>
     <td>
       <h3 style="color: blue">Portfolio</h3>
