@@ -124,7 +124,8 @@ Here are some ideas to get you started:
         <li>Different type of input-data – text, e-mail, number, min-max;</li>
         <li>Dropdown-elements, checkboxes, radio-button;</li>
       </ul>
-      <p>You can find the code <a href="https://annnek.github.io/e-commerce/">here</a>. Deploy is <a href="https://annnek.github.io/e-commerce/">here</a> or you can click on the image on the right.</p>
+      <p>You can find the code <a href="https://github.com/Annnek/e-commerce">here</a>.</p> 
+      <p>The result is <a href="https://annnek.github.io/e-commerce/">here</a> or you can click on the image on the right./p>
     </td>
     <td>
       <p>Click preview</p>
@@ -146,7 +147,7 @@ Here are some ideas to get you started:
         <li>Variety of semantics;</li>        
       </ul>
       <p>You can find the code <a href="https://github.com/Annnek/russian-travel" target="_blank">here</a>.</p>
-      <p>You can see the result <a href="https://annnek.github.io/russian-travel/" target="_blank">here</a> or you can click on the image on the right.</p> 
+      <p>The result <a href="https://annnek.github.io/russian-travel/" target="_blank">here</a> or you can click on the image on the right.</p> 
     </td>
     <td>
       <p>Click preview</p>
@@ -168,7 +169,7 @@ Here are some ideas to get you started:
         <li>Layout according to BEM methodology;</li>        
       </ul>
       <p>You can find the code <a href="https://github.com/Annnek/how-to-learn" target="_blank">here</a>.</p>
-      <p>You can see the result <a href="https://annnek.github.io/how-to-learn/" target="_blank">here</a> or you can click on the image on the right.</p>    
+      <p>The result <a href="https://annnek.github.io/how-to-learn/" target="_blank">here</a> or you can click on the image on the right.</p>    
     </td>
     <td>
       <p>Click preview</p>
@@ -187,7 +188,7 @@ Here are some ideas to get you started:
         <li>Functionality - photo selection by radio button;</li>        
       </ul>
       <p>You can find the code <a href="https://github.com/Annnek/change-picture" target="_blank">here</a>.</p>
-      <p>You can see the result <a href="https://annnek.github.io/change-picture/" target="_blank">here</a> or you can click on the image on the right.</p>
+      <p>The result <a href="https://annnek.github.io/change-picture/" target="_blank">here</a> or you can click on the image on the right.</p>
     </td>
     <td>
       <p>Click preview</p>
@@ -209,7 +210,7 @@ Here are some ideas to get you started:
         <li>Submit and reset buttons;</li>        
       </ul>
       <p>You can find the code <a href="https://github.com/Annnek/form_articles" target="_blank">here</a>.</p>
-      <p>You can see the result <a href="https://annnek.github.io/form_articles/" target="_blank">here</a> or you can click on the image on the right.</p>
+      <p>The result <a href="https://annnek.github.io/form_articles/" target="_blank">here</a> or you can click on the image on the right.</p>
     </td>
     <td>
       <p>Click preview</p>
