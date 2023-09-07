@@ -1,50 +1,50 @@
-<!--
-**Annnek/Annnek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <p align="right">
-    <a href="https://www.linkedin.com/in/anna-nekhorosheva/"><img align="" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Photo Anna" height="30" /></a>
+    <a href="https://www.linkedin.com/in/anna-nekhorosheva/"><img align="" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="30" /></a>
     <a href="mailto:nekhorosheva.ann@gmail.com"> <img align="" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="e-mail" height="30"/> </a>
 </p>
-<h1 align="center">Hey! I'm Anna.</h1>
+<div align="center">
+  <img src="https://media1.giphy.com/media/kFUezYvRCwweoRfc6f/giphy.gif?cid=ecf05e47mol24l2a0s6zx10q9717nnqpkpwfnumxn3l59kxp&rid=giphy.gif&ct=s" alt="Hi there!" width="250" height="200">  
+<h1 align="center">I'm Anna.</h1>
+</div>
 
-<p>I'm self-motivated and passionate junior Web developer and now I'm seeking an opportunity to expand my skill set.</p>
-<p>My previous job was in IT company where I fell in love with the widespread possibilities of modern technology. I moved from marketing to IT department. My previous experience in marketing and project management helps me understand the real needs of the business as well as the specifics of product development, key indicators, user and beneficiary expectations.</p>
-<p>I've graduated some web-development courses and now I’m actively learning frameworks and libraries  and looking for a job or internship in IT-sector.</p>
-<p>I will be glad to join your team!</p>  
+I'm self-motivated front-end developer with a background in Marketing, looking to combine my marketing expertise with technology skills.
+
+- 🏄‍ Created and promoted IT products for B2B and B2C markets.
+- ⚡ I am passionate about every stage of development, from ideation to the final product.
+- 💗 Love aesthetically beautiful projects.
+
 ---
-<h3>Skills</h3>
 
-<p>
-<img title="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5" height="30"/>
-<img title="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3" height="30"/>
-<img title="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript" height="30"/>
-<img title="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" height="30"/>
-<!-- <img title="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react" height="30"/> -->
-</p>
+### Skills 🛠️
 
-<p> 
-<img title="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" height="30"/>
-<img title="Jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" height="30"/>
-<img title="VisualStudio" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode" height="30"/>
-<img title="Miro" src="/images/miro.png" alt="Miro" height="30"/>
-<img title="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="figma" height="30"/>
-</p>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Miro]('/../images/miro.png')
 
-<h3>Education</h3>
-    
+<!-- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) -->
+
+### Programming Stats
+
+<div style="display: flex; justify-content: space-between; width: 100%">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Annnek&show_icons=true&locale=en&layout=compact">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Annnek&show_icons=true&locale=en">
+</div>
+
+<img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Annnek&" alt="Annnek" />
+
+## Education
+
 <ul>
- <li><a href="https://practicum.yandex.ru/web/" target="_blank">Web development, Yandex Practicum</a> - learning now</li>
+ <li><a href="https://practicum.yandex.ru/web/" target="_blank">Web development, Yandex Practicum</a></li>
  <li><a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/" target="_blank">The Complete 2022 Web Development Bootcamp (Dr.Angela Yu), Udemy</a> - learning now</li>
  <li>Responsive Web Design, FreeCodeCamp
    <ul>
@@ -62,17 +62,23 @@ Here are some ideas to get you started:
      </li>
    </ul> 
  </li>
-</ul>
-          
-<h3>My projects</h3>
+</ul>          
+  
+## Contact me 📫
+<p align="left">
+  <a href="https://www.linkedin.com/in/anna-nekhorosheva/"><img align="" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Photo Anna" height="30" /></a>
+  <a href="mailto:nekhorosheva.ann@gmail.com"> <img align="" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="e-mail" height="30"/> </a>
+</p>
+
+<!-- <h3>My projects</h3>
 
 <table border="1">
   <tr>
     <th>Project</th>
     <th width="35%">Preview</th>
-  </tr>
+  </tr> -->
   <!-- Company's blog -->
-  <tr>
+  <!-- <tr>
     <td>
       <h3 style="color: blue">Company's blog</h3>
       <p><strong>Tools: Html/CSS, Flexbox, Variables</strong></p>
@@ -90,9 +96,9 @@ Here are some ideas to get you started:
       <p>Click preview</p>
       <a href="/images/blog.jpg" target="_blank"><img src ="./images/blog_small.jpg" alt="blog preview"></a>
     </td>
-  </tr>
+  </tr> -->
   <!-- Feedback form     -->
-  <tr>
+  <!-- <tr>
     <td>
       <h3 style="color: blue">Feedback form</h3>
       <p><strong>Tools: Html/Css, CSS-Flexbox, CSS-Variables </strong></p>
@@ -111,9 +117,9 @@ Here are some ideas to get you started:
       <p>Click preview</p>
       <a href="https://homeapp.ru/profile/realty/example/view" target="_blank"><img src ="images/user_account_small.jpg" alt="user account preview"></a>
     </td>
-  </tr>
+  </tr> -->
 <!-- E-commerce project -->
-  <tr>
+  <!-- <tr>
     <td>
       <h3 style="color: blue">E-commerce project</h3>
       <p><strong>Tools: Html/Css, CSS-Flexbox, CSS-Variables, Grids</strong></p>
@@ -131,9 +137,9 @@ Here are some ideas to get you started:
       <p>Click preview</p>
       <a href="https://annnek.github.io/e-commerce/"><img src ="images/ecommerce_small.jpg" alt="E-commerce preview"></a>
     </td>
-  </tr>      
+  </tr>       -->
 <!-- Travel guide -->
-  <tr>
+  <!-- <tr>
     <td>
       <h3 style="color: blue">Travel guide</h3>
       <p><strong>Tools: Html/Css, Flexbox, Grid, CSS-animation</strong></p>
@@ -153,9 +159,9 @@ Here are some ideas to get you started:
       <p>Click preview</p>
       <a href="https://annnek.github.io/russian-travel/"><img src ="images/travel2_small.jpg" alt="Travel around Russia preview"></a>
     </td>
-  </tr>
+  </tr> -->
   <!-- How to learn -->
-  <tr>
+  <!-- <tr>
     <td>
       <h3 style="color: blue">How to learn</h3>   
       <p><strong>Tools: Html/Css, Flexbox, Grid, CSS-animation</strong></p>
@@ -175,9 +181,9 @@ Here are some ideas to get you started:
       <p>Click preview</p>
       <a href="https://annnek.github.io/how-to-learn/"><img src ="images/learn_small.jpg" alt="How to learn preview"></a>
     </td>
-  </tr>
+  </tr> -->
 <!-- Change picture     -->
-  <tr>
+  <!-- <tr>
     <td>
       <h3 style="color: blue">JavaScript: change picture</h3>
       <p><strong>Tools: JavaScript, Html/Css, Flexbox, Grid, Variables </strong></p>
@@ -194,9 +200,9 @@ Here are some ideas to get you started:
       <p>Click preview</p>
       <a href="https://annnek.github.io/change-picture/" target="_blank"><img src ="images/change-picture_small.jpg" alt="user account preview"></a>
     </td>
-  </tr>
+  </tr> -->
 <!-- Form article     -->
-  <tr>
+  <!-- <tr>
     <td>
       <h3 style="color: blue">JavaScript: form for adding articles</h3>
       <p><strong>Tools: JavaScript, Html/Css, Flexbox, Variables </strong></p>
@@ -216,7 +222,7 @@ Here are some ideas to get you started:
       <p>Click preview</p>
       <a href="https://annnek.github.io/form_articles/" target="_blank"><img src ="images/form_small.jpg" alt="Preview project form"></a>
     </td>
-  </tr>
+  </tr> -->
 
   <!-- <tr>
     <td>
@@ -235,7 +241,7 @@ Here are some ideas to get you started:
       <p>Click preview</p>
       <a href="https://annnek.github.io/My-portfolio/" target="_blank"><img src ="images/portfolio_small.jpg" alt="Preview my portfolio"></a>
     </td>
-  </tr>       -->
+  </tr>      
   <tr>
     <td>
       <h3 style="color: blue">Codewars tasks</h3>
@@ -249,18 +255,4 @@ Here are some ideas to get you started:
       </details>
     </td>
   </tr>
-</table>
-
-<h3>My programming Stats</h3>
-      <details>
-        <summary> <b>click here</b> </summary>
-        <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Annnek&show_icons=true&locale=en&layout=compact" alt="Annnek" /></p>
-        <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Annnek&show_icons=true&locale=en" alt="Annnek" /></p>
-        <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Annnek&" alt="Annnek" /></p>
-      </details>
-     
-<h3>Contact me 📫</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/anna-nekhorosheva/"><img align="" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Photo Anna" height="30" /></a>
-  <a href="mailto:nekhorosheva.ann@gmail.com"> <img align="" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="e-mail" height="30"/> </a>
-</p>
+</table> -->
