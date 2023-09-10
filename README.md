@@ -1,6 +1,7 @@
 <p align="right">
     <a href="https://www.linkedin.com/in/anna-nekhorosheva/"><img align="" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="30" /></a>
     <a href="mailto:nekhorosheva.ann@gmail.com"> <img align="" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="e-mail" height="30"/> </a>
+    <a href="https://t.me/Annet_com"> <img align="" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" height="30"/> </a>
 </p>
 <div align="center">
   <img src="https://media1.giphy.com/media/kFUezYvRCwweoRfc6f/giphy.gif?cid=ecf05e47mol24l2a0s6zx10q9717nnqpkpwfnumxn3l59kxp&rid=giphy.gif&ct=s" alt="Hi there!" width="250" height="200">  
@@ -68,6 +69,7 @@ I'm self-motivated front-end developer with a background in Marketing, looking t
 <p align="left">
   <a href="https://www.linkedin.com/in/anna-nekhorosheva/"><img align="" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Photo Anna" height="30" /></a>
   <a href="mailto:nekhorosheva.ann@gmail.com"> <img align="" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="e-mail" height="30"/> </a>
+  <a href="https://t.me/Annet_com"> <img align="" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" height="30"/> </a>
 </p>
 
 <!-- <h3>My projects</h3>
